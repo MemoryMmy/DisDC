@@ -98,13 +98,6 @@ We have designed a housing site selection scenario for VOC based overlay analysi
 *Fig 5. Analysis result of the housing site selection in Spain*
 
 
-
-## Undergoing works
-
-### [CSSMap: Interactive Visualization of Cellular Signal Strength on the Planet](https://github.com/MemoryMmy/CSSMap)
-
-
-
 ## Contact:
 
 Mengyu Ma@ National University of Defense Technology
